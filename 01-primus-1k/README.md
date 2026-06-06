@@ -66,3 +66,8 @@ Remove the intermediate cache artifact to keep your working directory clean:
 ```cmd
 del main.obj
 ```
+
+## 📜 Project Metadata & Archival
+- **Release Target**: Windows (x86)
+- **Author**: halsingland
+- **Archival**: You will find `file_id.diz` in the root directory of this repository. This file contains the project's historical BBS-style metadata and personal notes. Please preserve it if you mirror or redistribute this project.
